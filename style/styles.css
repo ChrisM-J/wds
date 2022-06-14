@@ -388,7 +388,7 @@ h1 {
 
 .textstyle-title {
     width: 200px;
-    height: 1150px;
+    height: 1000px;
     font-family: PoiretOne;
     font-size:200%;
     justify-content: center;
@@ -405,7 +405,7 @@ h1 {
     flex-wrap: wrap;
     flex-direction: row;
     width: 750px;
-    height: 1150px;
+    height: 1000px;
     justify-content: center;
     align-content: center;
     font-family: PoiretOne;
